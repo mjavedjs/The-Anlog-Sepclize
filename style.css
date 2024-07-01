@@ -5,17 +5,18 @@
 }
 .container{
      width: 70%;
-     height:50vh;
+     height:80vh;
      border: 5px solid grey;
      /* margin: 10px; */
      padding: 20px;
      margin:20px auto;
-}
+}   
 .text{
      text-align: center;
      text-transform: capitalize;
      font-variant: small-caps;
      margin-top:8px;
+     font-size: 1.7rem;
 }
 ul{
     display:flex;
@@ -25,13 +26,14 @@ ul{
 }
 .textP{
     margin-top:2px;
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding: 5px;
     text-align: center;
 }
 li{ 
 list-style: none;
 padding: 5px;
+font-size: 1.6rem;
 }
 a{
     color: black;
