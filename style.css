@@ -5,7 +5,7 @@
 }
 .container{
      width: 70%;
-     height:85vh;
+     height:85%;
      border: 5px solid grey;
      /* margin: 10px; */
      padding: 20px;
@@ -35,6 +35,7 @@ ul{
     font-size: 1.5rem;
     padding: 5px;
     text-align: center;
+    overflow: hidden;
 }
 li{ 
 list-style: none;
