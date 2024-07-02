@@ -11,6 +11,9 @@
      padding: 20px;
      margin:20px auto;
 }   
+img{
+    width:32%;
+}
 .text{
      text-align: center;
      text-transform: capitalize;
